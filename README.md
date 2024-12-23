@@ -1,10 +1,22 @@
 # shadcn-docs-nuxt Minimal Starter
 
-Starter template for [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt).
+开始使用 [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt) 的启动模板。
 
-## Setup
+## 提交
 
-Make sure to install the dependencies:
+```bash
+git remote
+
+# origin
+# production
+
+git push origin # 提交到开发环境
+git push production # 提交到生产环境
+```
+
+## 设置
+
+请确保安装以下依赖：
 
 ```bash
 # yarn
@@ -20,30 +32,30 @@ pnpm install
 bun install
 ```
 
-## Development Server
+## 开发服务器
 
-Start the development server on http://localhost:3000
+在 http://localhost:3000 上启动开发服务器
 
 ```bash
 npm run dev
 ```
 
-## Production
+## 生产环境
 
 [![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=ZTL-UwU/shadcn-docs-nuxt-starter)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FZTL-UwU%2Fshadcn-docs-nuxt-starter)
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FZTL-UwU%2Fshadcn-docs-nuxt-starter)
 
-Build the application for production:
+构建生产环境应用：
 
 ```bash
 npm run build
 ```
 
-Locally preview production build:
+在本地预览生产环境构建：
 
 ```bash
 npm run preview
 ```
 
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+查看 [部署文档](https://nuxt.com/docs/getting-started/deployment) 了解更多信息。
