@@ -1,47 +1,47 @@
 {
-    "recommendations": [
-        "nuxt.mdc",
-        "vue.volar",
-        // ************************* 必备 star *************************
-        // One Dark Pro 主题
-        "akamud.vscode-theme-onedark",
-        // 添加书签功能，方便在代码间快速跳转
-        "alefragnani.bookmarks",
-        // VSCode 中文语言包
-        "ms-ceintl.vscode-language-pack-zh-hans",
-        // 拼写检查器
-        "streetsidesoftware.code-spell-checker",
-        // 在状态栏显示当前 Git 分支
-        "xicunyang.show-project-with-git-branch",
-        // ESLint 代码检查工具
-        "dbaeumer.vscode-eslint",
-        // Git 责任追踪，显示每行代码的作者
-        "waderyan.gitblame",
-        // Git 提交历史图表可视化
-        "mhutchie.git-graph",
-        // Git 历史记录查看器
-        "donjayamanne.githistory",
-        // 代码格式化工具
-        "esbenp.prettier-vscode",
-        // 注释高亮和管理
-        "gruntfuggly.todo-tree",
-        // 快速生成 console.log 调试代码
-        "chakrounanas.turbo-console-log",
-        // ************************* 必备 end *************************
-        // ************************* 常用 *************************
-        // 代码截图工具
-        "adpyke.codesnap",
-        // 自动纠正和格式化中文标点符号
-        "huacnlee.autocorrect",
-        // Excalidraw 绘图编辑器
-        "pomdtr.excalidraw-editor",
-        // 显示文件大小
-        "mkxml.vscode-filesize",
-        // 在行号槽中预览图片
-        "kisstkondoros.vscode-gutter-preview",
-        // 实时预览 HTML 页面的服务器
-        // "ritwickdey.liveserver",
-        // Tailwind CSS 智能提示
-        "bradlc.vscode-tailwindcss"
-    ]
+  "recommendations": [
+    "nuxt.mdc",
+    "vue.volar",
+    // ************************* 必备 star *************************
+    // One Dark Pro 主题
+    "akamud.vscode-theme-onedark",
+    // 添加书签功能，方便在代码间快速跳转
+    "alefragnani.bookmarks",
+    // VSCode 中文语言包
+    "ms-ceintl.vscode-language-pack-zh-hans",
+    // 拼写检查器
+    "streetsidesoftware.code-spell-checker",
+    // 在状态栏显示当前 Git 分支
+    "xicunyang.show-project-with-git-branch",
+    // ESLint 代码检查工具
+    "dbaeumer.vscode-eslint",
+    // Git 责任追踪，显示每行代码的作者
+    "waderyan.gitblame",
+    // Git 提交历史图表可视化
+    "mhutchie.git-graph",
+    // Git 历史记录查看器
+    "donjayamanne.githistory",
+    // 代码格式化工具
+    "esbenp.prettier-vscode",
+    // 注释高亮和管理
+    "gruntfuggly.todo-tree",
+    // 快速生成 console.log 调试代码
+    "chakrounanas.turbo-console-log",
+    // ************************* 必备 end *************************
+    // ************************* 常用 *************************
+    // 代码截图工具
+    "adpyke.codesnap",
+    // 自动纠正和格式化中文标点符号
+    "huacnlee.autocorrect",
+    // Excalidraw 绘图编辑器
+    "pomdtr.excalidraw-editor",
+    // 显示文件大小
+    "mkxml.vscode-filesize",
+    // 在行号槽中预览图片
+    "kisstkondoros.vscode-gutter-preview",
+    // 实时预览 HTML 页面的服务器
+    // "ritwickdey.liveserver",
+    // Tailwind CSS 智能提示
+    "bradlc.vscode-tailwindcss"
+  ]
 }
